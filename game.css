@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    background-color: antiquewhite;
+    background-image: linear-gradient(to right, #970e15, #21E8BC);
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.login_div1{
+    float: none;
+}
+.login_div2{
+    float: none;
+}
+#check123{
+    background-color: deeppink;
+    color:dimgrey;
+}
+#num1,#num2
+{
+    width: 60%;
+}
